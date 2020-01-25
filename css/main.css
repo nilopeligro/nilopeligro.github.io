@@ -518,8 +518,10 @@
     main#home img {
       height: 80px;
       width: 335px;
-      margin-left: -50px;
     }
+    main#home .logo {
+        margin-left: -50px;
+   }
     main#home h2 {
       font-size: 20px;
       margin-top: -10px;
