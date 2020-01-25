@@ -519,13 +519,15 @@
       height: 70px;
       width: 315px;
     }
-   
+   main#home .logo {
+       margin-left: -30px;
+    }
     main#home h2 {
       font-size: 20px;
       margin-top: -10px;
     }
     #about h1 {
-      font-size: 60px;
+      font-size: 40px;
     }
     #about h2 {
       font-size: 20px;
