@@ -518,7 +518,7 @@
     main#home img {
       height: 80px;
       width: 335px;
-      position: center;
+      margin-left: -50px;
     }
     main#home h2 {
       font-size: 20px;
