@@ -546,7 +546,7 @@
       margin: 10px;
     }
     #work h1 {
-      font-size: 60px;
+      font-size: 40px;
     }
     #work h2 {
       font-size: 20px;
@@ -556,7 +556,7 @@
       grid-template-columns: repeat(1, 1fr);
     }
     #contact h1 {
-      font-size: 60px;
+      font-size: 40px;
       text-align: center;
     }
     #contact h2 {
